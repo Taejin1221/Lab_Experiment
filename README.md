@@ -5,3 +5,4 @@ My experiment codes and results in Laboratory
    1. Clustering and Similiarity
 2. Data preprocessing
    1. Read Geolife
+   2. Segmentation Geolife
