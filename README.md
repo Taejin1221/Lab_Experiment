@@ -6,3 +6,4 @@ My experiment codes and results in Laboratory
 2. Data preprocessing
    1. Read Geolife
    2. Segmentation Geolife
+      1. k-means
