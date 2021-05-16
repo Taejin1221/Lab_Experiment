@@ -7,3 +7,4 @@ My experiment codes and results in Laboratory
    1. Read Geolife
    2. Segmentation Geolife
       1. k-means
+3. CNN CIFAR10
