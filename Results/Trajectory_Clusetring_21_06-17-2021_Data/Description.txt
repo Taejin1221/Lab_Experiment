@@ -1,0 +1,2 @@
+Threshold 0.1 ~ 0.2 세세하게 나눠보기
+Save Low dimensional data
