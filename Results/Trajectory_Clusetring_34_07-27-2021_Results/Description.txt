@@ -1,0 +1,1 @@
+Draw similar bimap images into one image

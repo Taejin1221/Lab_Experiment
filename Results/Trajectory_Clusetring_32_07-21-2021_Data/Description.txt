@@ -1,0 +1,1 @@
+Get intersect ratio and show top 10 similar image with 0

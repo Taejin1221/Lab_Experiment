@@ -1,0 +1,1 @@
+Calculate similarity of original trajectory using DNN
