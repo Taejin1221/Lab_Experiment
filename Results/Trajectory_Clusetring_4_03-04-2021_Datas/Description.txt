@@ -1,0 +1,2 @@
+Use Hybrid Loss Function
+Add Cosine Similarity test

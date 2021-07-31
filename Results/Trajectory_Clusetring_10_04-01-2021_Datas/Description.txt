@@ -1,0 +1,2 @@
+Add all black image to train image
+Calculate intersection part

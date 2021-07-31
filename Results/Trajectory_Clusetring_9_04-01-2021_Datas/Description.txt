@@ -1,0 +1,1 @@
+Convert test data to cropped full size data

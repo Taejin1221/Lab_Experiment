@@ -1,0 +1,1 @@
+Cosine Similarity Threshold를 0.3으로 늘려서 실험
