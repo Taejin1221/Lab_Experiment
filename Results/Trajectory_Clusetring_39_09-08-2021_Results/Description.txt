@@ -1,0 +1,1 @@
+Compute MSE of simple and selected trajectory
